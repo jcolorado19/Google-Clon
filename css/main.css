@@ -259,27 +259,3 @@ footer ul li a{
     }
 }
 
-@media screen and (max-height: 640px) and (orientation:landscape){
-    footer{
-        top: 100%;
-    }
-}
-
-@media screen and (min-height: 320px) and (orientation:landscape){
-    footer{
-        top: 180%;
-    }
-}
-
-@media screen and (min-height: 360px) and (orientation:landscape){
-    footer{
-        top: 140%;
-    }
-}
-
-@media screen and (min-height: 440px) and (orientation:landscape){
-    footer{
-        top: 130%;
-    }
-}
-
