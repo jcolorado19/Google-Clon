@@ -2,7 +2,7 @@
 
 Simple page from google page clone.
 
-## Technologies
+## Languages
 
 - HTML5
 - CSS3
